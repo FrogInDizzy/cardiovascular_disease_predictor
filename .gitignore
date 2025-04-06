@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.env
+*.venv/
+venv/
+ENV/
+env/
+.idea/
+.DS_Store
+
+# Flask
+instance/
+*.db
+*.sqlite3
+*.log
+
+# Vite / Node.js
+node_modules/
+dist/
+*.log
+*.local
+
+# VSCode
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# BN model or large data
+*.bn
+*.csv
+*.pkl
+*.npz
+
+# Build
