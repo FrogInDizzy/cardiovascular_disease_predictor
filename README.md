@@ -126,4 +126,3 @@ Developed by [@FrogInDizzy](https://github.com/FrogInDizzy) as part of a medical
 ## 🛡️ License
 
 MIT License
-```
