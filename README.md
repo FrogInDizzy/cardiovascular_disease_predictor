@@ -1,5 +1,5 @@
 
-# 🫀 Cardiovascular Disease Predictor
+# Cardiovascular Disease Predictor
 
 An interactive web-based system that uses a Bayesian Network to predict the likelihood of cardiovascular disease based on user health data.
 
